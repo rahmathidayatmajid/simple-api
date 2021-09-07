@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pringles",
+        "price" : 19000,
+        "category" : 1,
+        "qty" : 500
+    },
+    {
+        "id" : 2,
+        "name" : "Beng Beng",
+        "price" : 25000,
+        "category" : 1,
+        "qty" : 240
+    }
+]
